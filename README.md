@@ -20,9 +20,9 @@ Durante el Amazon Prime Day en 2019, la base de datos NoSQL de Amazon alcanzó u
 
 Es posible ejecutar bases de datos NoSQL en servidores propios  con software como:   
 
-- [x] Cassandra  
-- [x] Scylla  
-- [x] CouchDB  
-- [x] MongoDB  
+- [x] [Apache Cassandra](https://cassandra.apache.org/_/index.html)   
+- [x] [Scylla](https://www.scylladb.com/)  
+- [x] [Apache CouchDB](https://couchdb.apache.org/)  
+- [x] [MongoDB](https://www.mongodb.com/)  
 
 
